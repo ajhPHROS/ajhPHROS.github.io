@@ -1,4 +1,4 @@
-### Welcome!
+## Welcome!
 I'm a 5th year PhD candidate at the [Center for Applied Mathematics](https://www.cam.cornell.edu/cam), Cornell University. My interests are in numerical analysis and scientific computing with an emphasis on fast numerical linear algebra, approximation theory, and all things eigenvalue-related!
 
 I hold dual bachelor degrees in physics and mathematics from [Rensselaer Polytechnic Institute](https://www.rpi.edu/) (RPI), where I conducted research in celluar motors (mathematical modeling), nanomaterials (computational physics), and ultrathin films (experimental physics). My interests in math and physics accelerated after high school while working as an R&D technician at [Praxis Technology](https://praxisti.com), a small biomedical firm in Glens Falls, NY.
