@@ -2,7 +2,7 @@
 I'm a 5th year **PhD candidate** at the [Center for Applied Mathematics](https://www.cam.cornell.edu/cam), Cornell University. My **research interests** are in numerical analysis and scientific computing with an emphasis on fast numerical linear algebra, approximation theory, and all things eigenvalue-related!
 
 ## Education
-I have a **dual B.Sc in physics and mathematics** from [Rensselaer Polytechnic Institute](https://www.rpi.edu/) (RPI), where I conducted research in celluar motors (mathematical modeling), nanomaterials (computational physics), and ultrathin films (experimental physics). My interests in math and physics accelerated after high school while working as an R&D technician at [Praxis Technology](https://praxisti.com), a small biomedical firm in Glens Falls, NY.
+I have a **dual B.Sc in physics and mathematics** from [Rensselaer Polytechnic Institute](https://www.rpi.edu/) (RPI), where I conducted research in celluar motors (math modeling), nanomaterials (computational physics), and ultrathin films (experimental physics). My interests in math and physics accelerated after high school while working as an R&D technician at [Praxis Technology](https://praxisti.com), a small biomedical firm in Glens Falls, NY.
 
 At Cornell, I work closely with my supervisor, Professor [Alex Townsend](https://pi.math.cornell.edu/~ajt/) in the mathematics department. Professors [David Bindel](https://www.cs.cornell.edu/~bindel/) and [Anile Damle](https://www.cs.cornell.edu/~damle/) from the computer science department sit on my research committee. My CV is available <a href="ajhPHROS.github.io/pdfs/ResumeSeptember2020.pdf" target="_blank">here.</a>
 
