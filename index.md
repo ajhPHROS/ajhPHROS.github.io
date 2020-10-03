@@ -5,6 +5,8 @@ I hold dual bachelor degrees in physics and mathematics from [Rensselaer Polytec
 
 At Cornell, I work closely with my supervisor, Professor [Alex Townsend](https://pi.math.cornell.edu/~ajt/) in the mathematics department. Professors [David Bindel](https://www.cs.cornell.edu/~bindel/) and [Anile Damle](https://www.cs.cornell.edu/~damle/) from the computer science department sit on my research committee. My CV is available here.
 
+<a href="ajhPHROS.github.io/pdfs/ResumeSeptember2020.pdf" target="_blank">PDF.</a>
+
 ## Research
 The spectral properties of infinite-dimensional operators often provide visual and intuitive insights into the behavior of complex interactions. For instance the stability of a fluid flow, the scattering cross-section of a nucleus, and the influence of decentralized hubs in large networks are intimately connected to the spectral properties of certain differential, integral, and lattice operators. I design algorithms that accurately and efficiently extract spectral properties like eigenvalues, spectral densities (or measures), and continuous spectra from these operators. The algorithms use a mix of functional analysis and approximation theory to preserve and exploit the structure of the continuous operator, regardless of the underlying discretization used for numerical computation. In practice, this means
 
