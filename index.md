@@ -1,22 +1,23 @@
-### Welcome!
-I'm a 5th year PhD candidate at the [Center for Applied Mathematics](https://www.cam.cornell.edu/cam), Cornell University. My interests are in numerical analysis and scientific computing with an emphasis on fast numerical linear algebra, approximation theory, and all things eigenvalue-related!
+## Welcome!
+I'm a 5th year **PhD candidate** at the [Center for Applied Mathematics](https://www.cam.cornell.edu/cam), Cornell University. My **research interests** are in numerical analysis and scientific computing with an emphasis on fast numerical linear algebra, approximation theory, and all things eigenvalue-related!
 
-I hold dual bachelor degrees in physics and mathematics from [Rensselaer Polytechnic Institute](https://www.rpi.edu/) (RPI), where I conducted research in celluar motors (mathematical modeling), nanomaterials (computational physics), and ultrathin films (experimental physics). My interests in math and physics accelerated after high school while working as an R&D technician at [Praxis Technology](https://praxisti.com), a small biomedical firm in Glens Falls, NY.
+## Education
+I have a **dual B.Sc in physics and mathematics** from [Rensselaer Polytechnic Institute](https://www.rpi.edu/) (RPI), where I conducted research in cellular motors (math modeling), nanomaterials (computational physics), and ultrathin films (experimental physics). My interests in math and physics accelerated after high school while working as an R&D technician at [Praxis Technology](https://praxisti.com), a small biomedical firm in Glens Falls, NY.
 
-At Cornell, I work closely with my supervisor, Professor [Alex Townsend](https://pi.math.cornell.edu/~ajt/) in the mathematics department. Professors [David Bindel](https://www.cs.cornell.edu/~bindel/) and [Anile Damle](https://www.cs.cornell.edu/~damle/) from the computer science department sit on my research committee. My CV is available here.
+At Cornell, I work closely with my supervisor, Professor [Alex Townsend](https://pi.math.cornell.edu/~ajt/) in the mathematics department. Professors [David Bindel](https://www.cs.cornell.edu/~bindel/) and [Anil Damle](https://www.cs.cornell.edu/~damle/) from the computer science department sit on my research committee. **My CV is available <a href="ajhPHROS.github.io/pdfs/ResumeSeptember2020.pdf" target="_blank">here.</a>**
 
 ## Research
-The spectral properties of infinite-dimensional operators often provide visual and intuitive insights into the behavior of complex interactions. For instance the stability of a fluid flow, the scattering cross-section of a nucleus, and the influence of decentralized hubs in large networks are intimately connected to the spectral properties of certain differential, integral, and lattice operators. I design algorithms that accurately and efficiently extract spectral properties like eigenvalues, spectral densities (or measures), and continuous spectra from these operators. The algorithms use a mix of functional analysis and approximation theory to preserve and exploit the structure of the continuous operator, regardless of the underlying discretization used for numerical computation. In practice, this means
+The spectral properties of infinite-dimensional operators often provide visual and intuitive insights into the behavior of complex interactions. For instance, the stability of a fluid flow, the scattering cross-section of a nucleus, and the influence of decentralized hubs in large networks are intimately connected to the spectral properties of such operators. **I design algorithms that accurately and efficiently extract eigenvalues, eigenfunctions, and spectral measures of differential and integral operators.** The algorithms use a mix of functional analysis and approximation theory to preserve and exploit the structure of the continuous operator, regardless of the underlying discretization used for numerical computation. In practice, this means
 
 - resolving inherently infinite-dimensional phenomenon related to continuous spectrum
 - avoiding spectral pollution from the underlying finite-dimensional discretizations
 - black-box approaches to a broad class of infinite-dimensional spectral problems
 - enhanced flexibility when selecting discretization schemes
 
-Software implementations exploiting fast linear algebra are available at [https://github.com/SpecSolve](https://github.com/SpecSolve).
+**Software implementations** exploiting fast linear algebra are available at [https://github.com/SpecSolve](https://github.com/SpecSolve).
 
-## External collaborations
-I'm privileged to collaborate with Professor [Yuji Nakatsukasa](https://www.maths.ox.ac.uk/people/yuji.nakatsukasa) (University of Oxford), Professor [Marcus Webb](https://personalpages.manchester.ac.uk/staff/marcus.webb/default.htm) (University of Manchester), Dr. [Matt Colbrook](https://www.damtp.cam.ac.uk/user/mjc249/Research.html) (University of Cambridge), and Dr. [Rhonda Morgan](https://www.linkedin.com/in/rhonda-morgan-9971514) (NASA Jet Propulsion Laboratory).
+## External collaborators
+I'm privileged to collaborate with Professor [Yuji Nakatsukasa](https://www.maths.ox.ac.uk/people/yuji.nakatsukasa) (University of Oxford), Professor [Marcus Webb](https://personalpages.manchester.ac.uk/staff/marcus.webb/default.htm) (University of Manchester), Dr. [Matthew Colbrook](https://www.damtp.cam.ac.uk/user/mjc249/Research.html) (University of Cambridge), and Dr. [Rhonda Morgan](https://www.linkedin.com/in/rhonda-morgan-9971514) (NASA Jet Propulsion Laboratory).
 
 ## Publications
 1. Colbrook, M. J., Horning, A., and Townsend, A. “[Computing spectral measures of self-adjoint operators.](https://arxiv.org/abs/2006.01766)” Submitted. arXiv preprint arXiv:2006.01766 (2020).
