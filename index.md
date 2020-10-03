@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+# Andrew Horning
 
-You can use the [editor on GitHub](https://github.com/ajhPHROS/ajhPHROS.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Welcome!
+I'm a 5th year PhD candidate at the [Center for Applied Mathematics](https://www.cam.cornell.edu/cam), Cornell University. My interests are in numerical analysis and scientific computing with an emphasis on fast numerical linear algebra, approximation theory, and all things eigenvalue-related!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I hold dual bachelor degrees in physics and mathematics from [Rensselaer Polytechnic Institute](https://www.rpi.edu/) (RPI), where I conducted research in celluar motors (mathematical modeling), nanomaterials (computational physics), and ultrathin films (experimental physics). My interests in math and physics accelerated after high school while working as an R&D technician at [Praxis Technology](https://praxisti.com), a small biomedical firm in Glens Falls, NY.
 
-### Markdown
+At Cornell, I work closely with my supervisor, Professor [Alex Townsend](https://pi.math.cornell.edu/~ajt/) in the mathematics department. Professors [David Bindel](https://www.cs.cornell.edu/~bindel/) and [Anile Damle](https://www.cs.cornell.edu/~damle/) from the computer science department sit on my research committee. My CV is available here.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Research
+The spectral properties of infinite-dimensional operators often provide visual and intuitive insights into the behavior of complex interactions. For instance the stability of a fluid flow, the scattering cross-section of a nucleus, and the influence of decentralized hubs in large networks are intimately connected to the spectral properties of certain differential, integral, and lattice operators. I design algorithms that accurately and efficiently extract spectral properties like eigenvalues, spectral densities (or measures), and continuous spectra from these operators. The algorithms use a mix of functional analysis and approximation theory to preserve and exploit the structure of the continuous operator, regardless of the underlying discretization used for numerical computation. In practice, this means
 
-```markdown
-Syntax highlighted code block
+- resolving inherently infinite-dimensional phenomenon related to continuous spectrum
+- avoiding spectral pollution from the underlying finite-dimensional discretizations
+- black-box approaches to a broad class of infinite-dimensional spectral problems
+- enhanced flexibility when selecting discretization schemes
 
-# Header 1
-## Header 2
-### Header 3
+Software implementations exploiting fast linear algebra are available at [https://github.com/SpecSolve](https://github.com/SpecSolve).
 
-- Bulleted
-- List
+## External collaborations
+I have the privilege of ongoing collaborations with Professor [Yuji Nakatsukasa](https://www.maths.ox.ac.uk/people/yuji.nakatsukasa) (University of Oxford), Professor [Marcus Webb](https://personalpages.manchester.ac.uk/staff/marcus.webb/default.htm) (University of Manchester), Dr. [Matt Colbrook](https://www.damtp.cam.ac.uk/user/mjc249/Research.html) (University of Cambridge), and Dr. [Rhonda Morgan](https://www.linkedin.com/in/rhonda-morgan-9971514) (NASA Jet Propulsion Laboratory).
 
-1. Numbered
-2. List
+## Publications
+1. Colbrook, M. J., Horning, A., and Townsend, A. “[Computing spectral measures of self-adjoint operators.](https://arxiv.org/abs/2006.01766)” Submitted. arXiv preprint arXiv:2006.01766 (2020).
+2. Horning, A., and Townsend, A. "[FEAST for differential eigenvalue problems.](https://epubs.siam.org/doi/abs/10.1137/19M1238708?journalCode=sjnaam)" SIAM Journal on Numerical Analysis 58.2 (2020): 1239-1262.
+3. Horning, A., Morgan, R., and Nielson, E. “[Minimum number of observations for exoplanet orbit determination.](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11117/111171C/Minimum-number-of-observations-for-exoplanet-orbit-determination/10.1117/12.2529741.short?SSO=1)” Techniques and Instrumentation for Detection of Exoplanets IX. 4. Vol. 11117. SPIE (2018).
+4. Timalsina, Y. P., et al. “[Effects of nanoscale surface roughness on the resistivity of ultrathin epitaxial copper films.](https://iopscience.iop.org/article/10.1088/0957-4484/26/7/075704/meta)” Nanotechnology 26.7 (2015): 075704.
+5. Daniels, Colin, et al. "[Elastic, plastic, and fracture mechanisms in graphene materials.](https://iopscience.iop.org/article/10.1088/0953-8984/27/37/373002#artAbst)" Journal of Physics: Condensed Matter 27.37 (2015): 373002.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ajhPHROS/ajhPHROS.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Invited and contributed talks
+-	Jul. 2020, "How to diagonalize differential and integral operators with continuous spectrum," SIAM Annual Meeting, Toronto, CA (virtual conference platform)
+-	Dec. 2019, "Computing spectral measures of differential and integral operators," Complex Analysis Workshop, Isaac Newton Institute, Cambridge, UK
+-	Jul. 2019, "Computing the spectrum of a differential operator: a resolvent-based approach," CAKE, University of Cambridge, Cambridge, UK
+-	Jun. 2019, "Computing the spectrum of a differential operator: a resolvent-based approach," The 28th BNAC, University of Strathclyde, Glasgow, Scotland
+-	Sept. 2018, "A continuous analogue of FEAST for differential eigenvalue problems," SCAN Seminar, Cornell University, Ithaca, NY						
+-	Jul. 2018, "A continuous analogue of FEAST for differential eigenvalue problems," ICOSAHOM, Imperial College, London, UK
+-	April 2018, "A continuous analogue of FEAST for differential eigenvalue problems," Applied Math Days, RPI, Troy, NY
+-	Aug. 2015, "Mathematical model for steric disinhibition," Mathematical Biosciences Institute Capstone Event, Ohio State, Columbus OH
+-	Oct. 2014, Electrical resistivity in thin copper films," American Vacuum Society, RPI, Troy, NY
