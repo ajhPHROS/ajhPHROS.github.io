@@ -27,7 +27,7 @@ I'm privileged to collaborate with Professor [Yuji Nakatsukasa](https://www.math
 5. Daniels, Colin, et al. "[Elastic, plastic, and fracture mechanisms in graphene materials.](https://iopscience.iop.org/article/10.1088/0953-8984/27/37/373002#artAbst)" Journal of Physics: Condensed Matter 27.37 (2015): 373002.
 
 ## Invited and contributed talks
--	Jul. 2020, "How to diagonalize differential and integral operators with continuous spectrum," SIAM Annual Meeting, Toronto, CA (virtual conference platform)
+-	Jul. 2020, "How to diagonalize differential and integral operators with continuous spectrum," SIAM Annual Meeting, Toronto, CA (virtual conference platform). <a href="ajhPHROS.github.io/pdfs/SIAMAN2020_spectral_measures.pdf" target="_blank">Slides.</a>
 -	Dec. 2019, "Computing spectral measures of differential and integral operators," Complex Analysis Workshop, Isaac Newton Institute, Cambridge, UK
 -	Jul. 2019, "Computing the spectrum of a differential operator: a resolvent-based approach," CAKE, University of Cambridge, Cambridge, UK
 -	Jun. 2019, "Computing the spectrum of a differential operator: a resolvent-based approach," The 28th BNAC, University of Strathclyde, Glasgow, Scotland
