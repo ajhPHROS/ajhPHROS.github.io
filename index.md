@@ -16,7 +16,7 @@ The spectral properties of infinite-dimensional operators often provide visual a
 Software implementations exploiting fast linear algebra are available at [https://github.com/SpecSolve](https://github.com/SpecSolve).
 
 ## External collaborations
-I have the privilege of ongoing collaborations with Professor [Yuji Nakatsukasa](https://www.maths.ox.ac.uk/people/yuji.nakatsukasa) (University of Oxford), Professor [Marcus Webb](https://personalpages.manchester.ac.uk/staff/marcus.webb/default.htm) (University of Manchester), Dr. [Matt Colbrook](https://www.damtp.cam.ac.uk/user/mjc249/Research.html) (University of Cambridge), and Dr. [Rhonda Morgan](https://www.linkedin.com/in/rhonda-morgan-9971514) (NASA Jet Propulsion Laboratory).
+I'm privileged to collaborate with Professor [Yuji Nakatsukasa](https://www.maths.ox.ac.uk/people/yuji.nakatsukasa) (University of Oxford), Professor [Marcus Webb](https://personalpages.manchester.ac.uk/staff/marcus.webb/default.htm) (University of Manchester), Dr. [Matt Colbrook](https://www.damtp.cam.ac.uk/user/mjc249/Research.html) (University of Cambridge), and Dr. [Rhonda Morgan](https://www.linkedin.com/in/rhonda-morgan-9971514) (NASA Jet Propulsion Laboratory).
 
 ## Publications
 1. Colbrook, M. J., Horning, A., and Townsend, A. “[Computing spectral measures of self-adjoint operators.](https://arxiv.org/abs/2006.01766)” Submitted. arXiv preprint arXiv:2006.01766 (2020).
