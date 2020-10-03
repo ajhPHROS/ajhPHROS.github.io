@@ -1,7 +1,8 @@
 ## Welcome!
-I'm a 5th year PhD candidate at the [Center for Applied Mathematics](https://www.cam.cornell.edu/cam), Cornell University. My interests are in numerical analysis and scientific computing with an emphasis on fast numerical linear algebra, approximation theory, and all things eigenvalue-related!
+I'm a 5th year **PhD candidate at the [Center for Applied Mathematics](https://www.cam.cornell.edu/cam)**, Cornell University. My **research interests** are in numerical analysis and scientific computing with an emphasis on fast numerical linear algebra, approximation theory, and all things eigenvalue-related!
 
-I hold dual bachelor degrees in physics and mathematics from [Rensselaer Polytechnic Institute](https://www.rpi.edu/) (RPI), where I conducted research in celluar motors (mathematical modeling), nanomaterials (computational physics), and ultrathin films (experimental physics). My interests in math and physics accelerated after high school while working as an R&D technician at [Praxis Technology](https://praxisti.com), a small biomedical firm in Glens Falls, NY.
+## Education
+I have a **dual B.Sc in physics and mathematics** from [Rensselaer Polytechnic Institute](https://www.rpi.edu/) (RPI), where I conducted research in celluar motors (mathematical modeling), nanomaterials (computational physics), and ultrathin films (experimental physics). My interests in math and physics accelerated after high school while working as an R&D technician at [Praxis Technology](https://praxisti.com), a small biomedical firm in Glens Falls, NY.
 
 At Cornell, I work closely with my supervisor, Professor [Alex Townsend](https://pi.math.cornell.edu/~ajt/) in the mathematics department. Professors [David Bindel](https://www.cs.cornell.edu/~bindel/) and [Anile Damle](https://www.cs.cornell.edu/~damle/) from the computer science department sit on my research committee. My CV is available <a href="ajhPHROS.github.io/pdfs/ResumeSeptember2020.pdf" target="_blank">here.</a>
 
@@ -13,9 +14,9 @@ The spectral properties of infinite-dimensional operators often provide visual a
 - black-box approaches to a broad class of infinite-dimensional spectral problems
 - enhanced flexibility when selecting discretization schemes
 
-Software implementations exploiting fast linear algebra are available at [https://github.com/SpecSolve](https://github.com/SpecSolve).
+**Software implementations** exploiting fast linear algebra are available at [https://github.com/SpecSolve](https://github.com/SpecSolve).
 
-## External collaborations
+## External collaborators
 I'm privileged to collaborate with Professor [Yuji Nakatsukasa](https://www.maths.ox.ac.uk/people/yuji.nakatsukasa) (University of Oxford), Professor [Marcus Webb](https://personalpages.manchester.ac.uk/staff/marcus.webb/default.htm) (University of Manchester), Dr. [Matt Colbrook](https://www.damtp.cam.ac.uk/user/mjc249/Research.html) (University of Cambridge), and Dr. [Rhonda Morgan](https://www.linkedin.com/in/rhonda-morgan-9971514) (NASA Jet Propulsion Laboratory).
 
 ## Publications
