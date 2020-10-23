@@ -4,7 +4,7 @@ I'm a 5th year **PhD candidate** at the [Center for Applied Mathematics](https:/
 ## Education
 I have a **dual B.Sc in physics and mathematics** from [Rensselaer Polytechnic Institute](https://www.rpi.edu/) (RPI), where I conducted research in cellular motors (math modeling), nanomaterials (computational physics), and ultrathin films (experimental physics). My interests in math and physics accelerated after high school while working as an R&D technician at [Praxis Technology](https://praxisti.com), a small biomedical firm in Glens Falls, NY.
 
-At Cornell, I work closely with my supervisor, Professor [Alex Townsend](https://pi.math.cornell.edu/~ajt/) in the mathematics department. Professors [David Bindel](https://www.cs.cornell.edu/~bindel/) and [Anil Damle](https://www.cs.cornell.edu/~damle/) from the computer science department sit on my research committee. **My CV is available <a href="ajhPHROS.github.io/pdfs/ResumeSeptember2020.pdf" target="_blank">here.</a>**
+At Cornell, I work closely with my supervisor, [Alex Townsend](https://pi.math.cornell.edu/~ajt/) in the mathematics department. [David Bindel](https://www.cs.cornell.edu/~bindel/) and [Anil Damle](https://www.cs.cornell.edu/~damle/) from the computer science department form my research committee. **My CV is available <a href="ajhPHROS.github.io/pdfs/ResumeSeptember2020.pdf" target="_blank">here.</a>**
 
 ## Research
 The spectral properties of infinite-dimensional operators often provide visual and intuitive insights into the behavior of complex interactions. For instance, the stability of a fluid flow, the scattering cross-section of a nucleus, and the influence of decentralized hubs in large networks are intimately connected to the spectral properties of such operators. **I design algorithms that accurately and efficiently extract eigenvalues, eigenfunctions, and spectral measures of differential and integral operators.** The algorithms use a mix of functional analysis and approximation theory to preserve and exploit the structure of the continuous operator, regardless of the underlying discretization used for numerical computation. In practice, this means
@@ -17,7 +17,7 @@ The spectral properties of infinite-dimensional operators often provide visual a
 **Software implementations** exploiting fast linear algebra are available at [https://github.com/SpecSolve](https://github.com/SpecSolve).
 
 ## External collaborators
-I'm privileged to collaborate with Professor [Yuji Nakatsukasa](https://www.maths.ox.ac.uk/people/yuji.nakatsukasa) (University of Oxford), Professor [Marcus Webb](https://personalpages.manchester.ac.uk/staff/marcus.webb/default.htm) (University of Manchester), Dr. [Matthew Colbrook](https://www.damtp.cam.ac.uk/user/mjc249/Research.html) (University of Cambridge), and Dr. [Rhonda Morgan](https://www.linkedin.com/in/rhonda-morgan-9971514) (NASA Jet Propulsion Laboratory).
+I'm privileged to collaborate with [Yuji Nakatsukasa](https://www.maths.ox.ac.uk/people/yuji.nakatsukasa) (University of Oxford), [Marcus Webb](https://personalpages.manchester.ac.uk/staff/marcus.webb/default.htm) (University of Manchester), [Matthew Colbrook](https://www.damtp.cam.ac.uk/user/mjc249/Research.html) (University of Cambridge), and [Rhonda Morgan](https://www.linkedin.com/in/rhonda-morgan-9971514) (NASA Jet Propulsion Laboratory).
 
 ## Publications
 1. A. Horning and Y. Nakatsukasa, "[Twice is enough for dangerous eigenvalues.](https://arxiv.org/abs/2010.09710)" Submitted. arXiv preprint arXiv:2010.09710 (2020).
