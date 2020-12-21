@@ -21,7 +21,7 @@ I'm privileged to collaborate with [Yuji Nakatsukasa](https://www.maths.ox.ac.uk
 
 ## Publications
 1. A. Horning and Y. Nakatsukasa, "[Twice is enough for dangerous eigenvalues.](https://arxiv.org/abs/2010.09710)" Submitted. arXiv preprint arXiv:2010.09710 (2020).
-2. M.J. Colbrook, A. Horning, and A. Townsend, “[Computing spectral measures of self-adjoint operators.](https://arxiv.org/abs/2006.01766)” Submitted. arXiv preprint arXiv:2006.01766 (2020).
+2. M.J. Colbrook, A. Horning, and A. Townsend, “[Computing spectral measures of self-adjoint operators.](https://arxiv.org/abs/2006.01766)” SIAM Review, to appear.
 3. A. Horning, and A. Townsend, "[FEAST for differential eigenvalue problems.](https://epubs.siam.org/doi/abs/10.1137/19M1238708?journalCode=sjnaam)" SIAM Journal on Numerical Analysis 58.2 (2020): 1239-1262.
 4. A. Horning, R. Morgan, and E. Nielson, “[Minimum number of observations for exoplanet orbit determination.](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11117/111171C/Minimum-number-of-observations-for-exoplanet-orbit-determination/10.1117/12.2529741.short?SSO=1)” Techniques and Instrumentation for Detection of Exoplanets IX. 4. Vol. 11117. SPIE (2018).
 5. Y.P. Timalsina, et al. “[Effects of nanoscale surface roughness on the resistivity of ultrathin epitaxial copper films.](https://iopscience.iop.org/article/10.1088/0957-4484/26/7/075704/meta)” Nanotechnology 26.7 (2015): 075704.
