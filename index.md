@@ -20,12 +20,13 @@ The spectral properties of infinite-dimensional operators often provide visual a
 I'm privileged to collaborate with [Yuji Nakatsukasa](https://www.maths.ox.ac.uk/people/yuji.nakatsukasa) (University of Oxford), [Marcus Webb](https://personalpages.manchester.ac.uk/staff/marcus.webb/default.htm) (University of Manchester), [Matthew Colbrook](https://www.damtp.cam.ac.uk/user/mjc249/Research.html) (University of Cambridge), and [Rhonda Morgan](https://www.linkedin.com/in/rhonda-morgan-9971514) (NASA Jet Propulsion Laboratory).
 
 ## Publications
-1. A. Horning and Y. Nakatsukasa, "[Twice is enough for dangerous eigenvalues.](https://arxiv.org/abs/2010.09710)" Submitted. arXiv preprint arXiv:2010.09710 (2020).
-2. M.J. Colbrook, A. Horning, and A. Townsend, “[Computing spectral measures of self-adjoint operators.](https://arxiv.org/abs/2006.01766)” SIAM Review, to appear.
-3. A. Horning, and A. Townsend, "[FEAST for differential eigenvalue problems.](https://epubs.siam.org/doi/abs/10.1137/19M1238708?journalCode=sjnaam)" SIAM Journal on Numerical Analysis 58.2 (2020): 1239-1262.
-4. A. Horning, R. Morgan, and E. Nielson, “[Minimum number of observations for exoplanet orbit determination.](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11117/111171C/Minimum-number-of-observations-for-exoplanet-orbit-determination/10.1117/12.2529741.short?SSO=1)” Techniques and Instrumentation for Detection of Exoplanets IX. 4. Vol. 11117. SPIE (2018).
-5. Y.P. Timalsina, et al. “[Effects of nanoscale surface roughness on the resistivity of ultrathin epitaxial copper films.](https://iopscience.iop.org/article/10.1088/0957-4484/26/7/075704/meta)” Nanotechnology 26.7 (2015): 075704.
-6. C. Daniels, et al. "[Elastic, plastic, and fracture mechanisms in graphene materials.](https://iopscience.iop.org/article/10.1088/0953-8984/27/37/373002#artAbst)" Journal of Physics: Condensed Matter 27.37 (2015): 373002.
+1. M.J. Colbrook, A. Horning, K. Thicke, and A.B. Watson, "[Computing spectral properties of topological insulators without artificial truncation or supercell approximation.](https://arxiv.org/abs/2112.03942v1)" arXiv preprint arXiv:2112.03942 (2021).
+2. A. Horning and Y. Nakatsukasa, "[Twice is enough for dangerous eigenvalues.](https://arxiv.org/abs/2010.09710)" SIAM Journal on Matrix Analysis and Applications, to appear.
+3. M.J. Colbrook, A. Horning, and A. Townsend, “[Computing spectral measures of self-adjoint operators.](https://epubs.siam.org/doi/10.1137/20M1330944)” SIAM Review, 63.3 (2021): 489-524.
+4. A. Horning, and A. Townsend, "[FEAST for differential eigenvalue problems.](https://epubs.siam.org/doi/10.1137/19M1238708)" SIAM Journal on Numerical Analysis 58.2 (2020): 1239-1262.
+5. A. Horning, R. Morgan, and E. Nielson, “[Minimum number of observations for exoplanet orbit determination.](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11117/111171C/Minimum-number-of-observations-for-exoplanet-orbit-determination/10.1117/12.2529741.short?SSO=1)” Techniques and Instrumentation for Detection of Exoplanets IX. 4. Vol. 11117. SPIE (2018).
+6. Y.P. Timalsina, et al. “[Effects of nanoscale surface roughness on the resistivity of ultrathin epitaxial copper films.](https://iopscience.iop.org/article/10.1088/0957-4484/26/7/075704/meta)” Nanotechnology 26.7 (2015): 075704.
+7. C. Daniels, et al. "[Elastic, plastic, and fracture mechanisms in graphene materials.](https://iopscience.iop.org/article/10.1088/0953-8984/27/37/373002#artAbst)" Journal of Physics: Condensed Matter 27.37 (2015): 373002.
 
 ## Invited and contributed talks
 - December 2020, "Twice is enough for dangerous eigenvalues," CMS Winter Meeting, Montreal, CA (virtual conference platform).
