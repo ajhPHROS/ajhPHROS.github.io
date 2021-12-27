@@ -41,4 +41,4 @@ I'm privileged to collaborate with [Yuji Nakatsukasa](https://www.maths.ox.ac.uk
 -	Jul. 2018, "A continuous analogue of FEAST for differential eigenvalue problems," ICOSAHOM, Imperial College, London, UK
 -	April 2018, "A continuous analogue of FEAST for differential eigenvalue problems," Applied Math Days, RPI, Troy, NY
 -	Aug. 2015, "Mathematical model for steric disinhibition," Mathematical Biosciences Institute Capstone Event, Ohio State, Columbus OH
--	Oct. 2014, Electrical resistivity in thin copper films," American Vacuum Society, RPI, Troy, NY
+-	Oct. 2014, "Electrical resistivity in thin copper films," American Vacuum Society, RPI, Troy, NY
