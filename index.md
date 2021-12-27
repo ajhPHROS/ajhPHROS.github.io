@@ -29,8 +29,10 @@ I'm privileged to collaborate with [Yuji Nakatsukasa](https://www.maths.ox.ac.uk
 7. C. Daniels, et al. "[Elastic, plastic, and fracture mechanisms in graphene materials.](https://iopscience.iop.org/article/10.1088/0953-8984/27/37/373002#artAbst)" Journal of Physics: Condensed Matter 27.37 (2015): 373002.
 
 ## Invited and contributed talks
+- November 2021, "Computing spectra of infinite-dimensional operators," NMPDE Seminar, MIT, Cambridge, MA.
+- January 2021, "Computing spectral properties of infinite-dimensional operators," Applied Math Seminar, UC Berkeley / Lawrence Berkeley Laboratory, Berkeley, CA.
 - December 2020, "Twice is enough for dangerous eigenvalues," CMS Winter Meeting, Montreal, CA (virtual conference platform).
-- November 2020, "Twice is enough for dangerous eigenvalues," NLA Seminar, University of Manchester, Manchester, UK (remote).
+- November 2020, "Twice is enough for dangerous eigenvalues," NLA Seminar, University of Manchester, Manchester, UK.
 -	Jul. 2020, "How to diagonalize differential and integral operators with continuous spectrum," SIAM Annual Meeting, Toronto, CA (virtual conference platform). <a href="ajhPHROS.github.io/pdfs/SIAMAN2020_spectral_measures.pdf" target="_blank">Slides.</a>
 -	Dec. 2019, "Computing spectral measures of differential and integral operators," Complex Analysis Workshop, Isaac Newton Institute, Cambridge, UK
 -	Jul. 2019, "Computing the spectrum of a differential operator: a resolvent-based approach," CAKE, University of Cambridge, Cambridge, UK
