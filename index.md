@@ -1,5 +1,5 @@
 ## Welcome!
-I'm an **Applied Math Instructor** at [MIT Mathematics](https://math.mit.edu/). My **research interests** are in numerical analysis and scientific computing with an emphasis on fast numerical linear algebra, approximation theory, and all things eigenvalue-related! **My CV is available <a href="ajhPHROS.github.io/pdfs/CV3.pdf" target="_blank">here.</a>**
+I'm an **Applied Math Instructor** at [MIT Mathematics](https://math.mit.edu/). My **research interests** are in numerical analysis and scientific computing with an emphasis on fast numerical linear algebra, approximation theory, and all things eigenvalue-related!
 
 ## Education
 I completed my **Ph.D. in applied mathematics** at Cornell's [Center for Applied Math](https://www.cam.cornell.edu/cam), where I worked closely with my supervisor, [Alex Townsend](https://pi.math.cornell.edu/~ajt/) in the math department. My research committee included [David Bindel](https://www.cs.cornell.edu/~bindel/) and [Anil Damle](https://www.cs.cornell.edu/~damle/) from the computer science department.
