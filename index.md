@@ -17,7 +17,7 @@ The spectral properties of infinite-dimensional operators often provide visual a
 **Software implementations** exploiting fast linear algebra are available at [https://github.com/SpecSolve](https://github.com/SpecSolve).
 
 ## External collaborators
-[Alex Watson](https://www-users.cse.umn.edu/~watso860/) (University of Minnesota), Kyle Thicke (Technical University of Munich), [Yuji Nakatsukasa](https://people.maths.ox.ac.uk/nakatsukasa/) (University of Oxford), [Marcus Webb](https://personalpages.manchester.ac.uk/staff/marcus.webb/default.htm) (University of Manchester), [Matthew Colbrook](https://www.damtp.cam.ac.uk/user/mjc249/Research.html) (University of Cambridge), and [Rhonda Morgan](https://www.linkedin.com/in/rhonda-morgan-9971514) (NASA Jet Propulsion Laboratory).
+[Alex Watson](https://www-users.cse.umn.edu/~watso860/) (University of Minnesota), Kyle Thicke (Technical University of Munich), [Yuji Nakatsukasa](https://people.maths.ox.ac.uk/nakatsukasa/) (University of Oxford), [Marcus Webb](https://personalpages.manchester.ac.uk/staff/marcus.webb/default.htm) (University of Manchester), [Matthew Colbrook](http://www.damtp.cam.ac.uk/user/mjc249/home.html) (University of Cambridge), and [Rhonda Morgan](https://www.linkedin.com/in/rhonda-morgan-9971514) (NASA Jet Propulsion Laboratory).
 
 ## Publications
 1. M.J. Colbrook, A. Horning, K. Thicke, and A.B. Watson, "[Computing spectral properties of topological insulators without artificial truncation or supercell approximation.](https://arxiv.org/abs/2112.03942v1)" arXiv preprint arXiv:2112.03942 (2021).
