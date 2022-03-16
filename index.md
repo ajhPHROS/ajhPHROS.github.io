@@ -21,8 +21,8 @@ The spectral properties of infinite-dimensional operators often provide visual a
 
 ## Publications
 1. M.J. Colbrook, A. Horning, K. Thicke, and A.B. Watson, "[Computing spectral properties of topological insulators without artificial truncation or supercell approximation.](https://arxiv.org/abs/2112.03942v1)" arXiv preprint arXiv:2112.03942 (2021).
-2. A. Horning and Y. Nakatsukasa, "[Twice is enough for dangerous eigenvalues.](https://arxiv.org/abs/2010.09710)" SIAM Journal on Matrix Analysis and Applications, to appear.
-3. M.J. Colbrook, A. Horning, and A. Townsend, “[Computing spectral measures of self-adjoint operators.](https://epubs.siam.org/doi/10.1137/20M1330944)” SIAM Review, 63.3 (2021): 489-524.
+2. A. Horning and Y. Nakatsukasa, "[Twice is enough for dangerous eigenvalues.](https://epubs.siam.org/doi/abs/10.1137/20M1385330?journalCode=sjmael)" SIAM Journal on Matrix Analysis and Applications 43.1 (2022): 68-93.
+3. M.J. Colbrook, A. Horning, and A. Townsend, “[Computing spectral measures of self-adjoint operators.](https://epubs.siam.org/doi/10.1137/20M1330944)” SIAM Review 63.3 (2021): 489-524.
 4. A. Horning, and A. Townsend, "[FEAST for differential eigenvalue problems.](https://epubs.siam.org/doi/10.1137/19M1238708)" SIAM Journal on Numerical Analysis 58.2 (2020): 1239-1262.
 5. A. Horning, R. Morgan, and E. Nielson, “[Minimum number of observations for exoplanet orbit determination.](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11117/111171C/Minimum-number-of-observations-for-exoplanet-orbit-determination/10.1117/12.2529741.short?SSO=1)” Techniques and Instrumentation for Detection of Exoplanets IX. 4. Vol. 11117. SPIE (2018).
 6. Y.P. Timalsina, et al. “[Effects of nanoscale surface roughness on the resistivity of ultrathin epitaxial copper films.](https://iopscience.iop.org/article/10.1088/0957-4484/26/7/075704/meta)” Nanotechnology 26.7 (2015): 075704.
