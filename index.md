@@ -16,18 +16,19 @@ The spectral properties of infinite-dimensional operators often provide visual a
 
 **Software implementations** exploiting fast linear algebra are available at [https://github.com/SpecSolve](https://github.com/SpecSolve).
 
-## External collaborators
-[Adam Gerlach](https://scholar.google.com/citations?user=5Sct5YwAAAAJ&hl=en) (AFRL), [Alex Watson](https://www-users.cse.umn.edu/~watso860/) (University of Minnesota), Kyle Thicke (Technical University of Munich), [Yuji Nakatsukasa](https://people.maths.ox.ac.uk/nakatsukasa/) (University of Oxford), [Marcus Webb](https://personalpages.manchester.ac.uk/staff/marcus.webb/default.htm) (University of Manchester), [Matthew Colbrook](http://www.damtp.cam.ac.uk/user/mjc249/home.html) (University of Cambridge), and [Rhonda Morgan](https://www.linkedin.com/in/rhonda-morgan-9971514) (NASA Jet Propulsion Laboratory).
-
 ## Papers
 1. J. Zvonek, A. Horning, and A. Townsend, "[ContHutch++: Stochastic trace estimation for implicit integral operators.](https://arxiv.org/abs/2311.07035)" Submitted 2023.
 2. M.J. Colbrook, A. Horning, K. Thicke, and A.B. Watson, "[Computing spectral properties of topological insulators without artificial truncation or supercell approximation.](https://doi.org/10.1093/imamat/hxad002)" IMA Journal of Applied Mathematics 88.1 (2023): 1-42.
 3. A. Horning and Y. Nakatsukasa, "[Twice is enough for dangerous eigenvalues.](https://doi.org/10.1137/20M1385330)" SIAM Journal on Matrix Analysis and Applications 43.1 (2022): 68-93.
 4. M.J. Colbrook, A. Horning, and A. Townsend, “[Computing spectral measures of self-adjoint operators.](https://doi.org/10.1137/20M1330944)” SIAM Review 63.3 (2021): 489-524.
 5. A. Horning, and A. Townsend, "[FEAST for differential eigenvalue problems.](https://doi.org/10.1137/19M1238708)" SIAM Journal on Numerical Analysis 58.2 (2020): 1239-1262.
-6. A. Horning, R. Morgan, and E. Nielson, “[Minimum number of observations for exoplanet orbit determination.](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11117/111171C/Minimum-number-of-observations-for-exoplanet-orbit-determination/10.1117/12.2529741.short?SSO=1)” Techniques and Instrumentation for Detection of Exoplanets IX. 4. Vol. 11117. SPIE (2018).
-7. Y.P. Timalsina, et al. “[Effects of nanoscale surface roughness on the resistivity of ultrathin epitaxial copper films.](https://iopscience.iop.org/article/10.1088/0957-4484/26/7/075704/meta)” Nanotechnology 26.7 (2015): 075704.
-8. C. Daniels, et al. "[Elastic, plastic, and fracture mechanisms in graphene materials.](https://iopscience.iop.org/article/10.1088/0953-8984/27/37/373002#artAbst)" Journal of Physics: Condensed Matter 27.37 (2015): 373002.
+6. Y.P. Timalsina, et al. “[Effects of nanoscale surface roughness on the resistivity of ultrathin epitaxial copper films.](https://iopscience.iop.org/article/10.1088/0957-4484/26/7/075704/meta)” Nanotechnology 26.7 (2015): 075704.
+7. C. Daniels, et al. "[Elastic, plastic, and fracture mechanisms in graphene materials.](https://iopscience.iop.org/article/10.1088/0953-8984/27/37/373002#artAbst)" Journal of Physics: Condensed Matter 27.37 (2015): 373002.
+
+## Conference Proceedings
+1. M.J. Colbrook and A. Horning, "[SpecSolve: Spectral methods for spectral measures](https://doi.org/10.1007/978-3-031-20432-6_10)" ICOSAHOM 2020+1. Lecture Notes in Computational Science and Engineering, Springer vol. 137 (2023). 
+2. A. Horning, R. Morgan, and E. Nielson, “[Minimum number of observations for exoplanet orbit determination.](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11117/111171C/Minimum-number-of-observations-for-exoplanet-orbit-determination/10.1117/12.2529741.short?SSO=1)” Techniques and Instrumentation for Detection of Exoplanets IX. 4. Vol. 11117. SPIE (2018).
+
 
 ## Invited and contributed talks
 - December 2022, "Differentiating functionals of data-sparse matrix factors," SCAN Seminar, Cornell University, Ithaca, NY 
