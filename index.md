@@ -5,11 +5,7 @@ I'm an Applied Math Instructor at [MIT Mathematics](https://math.mit.edu/directo
 - randomized numerical linear algebra
 - data-driven modeling and analysis
 
-## Education
-
-**Ph.D.** Applied Mathematics, Cornell University, 2021
-
-**B.S.** Physics and Mathematics, Rensselaer Polytechnic Institute, 2016
+Before coming to MIT, I obtained a Ph.D. in Applied Mathematics at Cornell University and a B.Sc. in Physics and Mathematics at Rensselaer Polytechnic Institute (RPI).
 
 ## Research
 
