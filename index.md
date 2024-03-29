@@ -9,13 +9,7 @@ Before coming to MIT, I obtained a Ph.D. in Applied Mathematics at Cornell Unive
 
 ## Research
 
-The eigenvalues and eigenvectors of linear operators facilitate human insight and algorithmic development across applied mathematics. For example, they play a key role in 
-
--  stability and resonance phenomena for complex dynamical processes,
-- algorithms for model reduction and interpolation,
-- model inference, prediction, and control in data-driven dynamics.
-
-While highly tuned software libraries contain a host of algorithms for matrix eigenvalue problems, operators that act on an infinite-dimensional space of functions or vectors may exhibit a range of spectral phenomena that have no analog in the finite-dimensional world of matrices. But what role do these play in practical problems and how can we compute them? As a computational scientist and numerical analyst, I am fascinated by three broad themes:
+Highly tuned software libraries contain a host of algorithms for matrix eigenvalue problems. However, operators that act on an infinite-dimensional space of functions or vectors may exhibit a range of spectral phenomena that have no analog in the finite-dimensional world of matrices. What role do these play in practical problems and how can we compute them? As a computational scientist and numerical analyst, I am fascinated by three broad themes:
 
 **Continuous spectrum.** Operators with continuous spectrum play a key role in resonance phenomena and wave-propagation in electromagnetics, acoustics, quantum mechanics, and various
  regimes of fluid flow. _How does one capture the continuous spectrum on a computer?_
@@ -27,7 +21,7 @@ While highly tuned software libraries contain a host of algorithms for matrix ei
 **Data-driven design.** Interactions between mathematical models and real data are a key ingredient in engineering analysis and design. Modal decompositions play a key role in constructing
  models and analyzing data from complex and nonlinear systems, but infinite-dimensional challenges abound. _Can rigorous mode decompositions provide new bridges between models and data?_
 
-**Software implementations** that exploit fast linear algebra for infinite-dimensional spectral computations are available at [https://github.com/SpecSolve](https://github.com/SpecSolve).
+Software implementations of efficient and robust algorithms for infinite-dimensional spectral computations are available at [https://github.com/SpecSolve](https://github.com/SpecSolve).
 
 ## Papers
 1. J. Zvonek, A. Horning, and A. Townsend, "[ContHutch++: Stochastic trace estimation for implicit integral operators.](https://arxiv.org/abs/2311.07035)" Submitted 2023.
