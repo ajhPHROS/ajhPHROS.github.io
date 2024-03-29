@@ -1,9 +1,9 @@
-## About
+## Bio
 I'm an Applied Math Instructor at [MIT Mathematics](https://math.mit.edu/directory/profile.html?pid=2334). I work on problems in numerical analysis and scientific computing with an emphasis on fast numerical linear algebra, approximation theory, and all things eigenvalue-related!
 
 ## Education
-Ph.D. in Applied Mathematics, Cornell 2021
-B.S. Physics and Mathematics, RPI 20216
+- Ph.D. in Applied Mathematics, Cornell University, 2021
+- B.S. Physics and Mathematics, Rensselaer Polytechnic Institute, 2016
 
 ## Research
 The spectral properties of infinite-dimensional operators often provide visual and intuitive insights into the behavior of complex interactions. For instance, the stability of a fluid flow, the scattering cross-section of a nucleus, and the influence of decentralized hubs in large networks are intimately connected to the spectral properties of such operators. **I design algorithms that accurately and efficiently extract eigenvalues, eigenfunctions, and spectral measures of differential and integral operators.** The algorithms use a mix of functional analysis and approximation theory to preserve and exploit the structure of the continuous operator, regardless of the underlying discretization used for numerical computation. In practice, this means
