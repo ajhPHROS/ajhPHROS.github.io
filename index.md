@@ -9,7 +9,7 @@ Before coming to MIT, I obtained a Ph.D. in Applied Mathematics at Cornell Unive
 
 ## Research
 
-Highly tuned software libraries contain a host of algorithms for matrix eigenvalue problems. However, operators that act on an infinite-dimensional space of functions or vectors may exhibit a range of spectral phenomena that have no analog in the finite-dimensional world of matrices. What role do these play in practical problems and how can we compute them? As a computational scientist and numerical analyst, I am fascinated by three broad themes:
+Operators that act on an infinite-dimensional space of functions or vectors may exhibit a range of spectral phenomena that have no analog in the finite-dimensional world of matrices. What role do these play in practical problems and how can we compute them? As a computational scientist and numerical analyst, I am fascinated by three broad themes:
 
 **Continuous spectrum.** Operators with continuous spectrum play a key role in resonance phenomena and wave-propagation in electromagnetics, acoustics, quantum mechanics, and various
  regimes of fluid flow. _How does one capture the continuous spectrum on a computer?_
