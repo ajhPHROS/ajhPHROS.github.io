@@ -1,15 +1,14 @@
-## Welcome!
-I'm an Applied Math Instructor at [MIT Mathematics](https://math.mit.edu/directory/profile.html?pid=2334). My research interests are in numerical analysis and scientific computing with an emphasis on fast numerical linear algebra, approximation theory, and all things eigenvalue-related!
+## About
+I'm an Applied Math Instructor at [MIT Mathematics](https://math.mit.edu/directory/profile.html?pid=2334). I work on problems in numerical analysis and scientific computing with an emphasis on fast numerical linear algebra, approximation theory, and all things eigenvalue-related!
 
 ## Education
-I completed my **Ph.D. in applied mathematics** at Cornell's [Center for Applied Math](https://www.cam.cornell.edu/cam), where I worked closely with my supervisor, [Alex Townsend](https://pi.math.cornell.edu/~ajt/) in the math department. My research committee included [David Bindel](https://www.cs.cornell.edu/~bindel/) and [Anil Damle](https://www.cs.cornell.edu/~damle/) from the computer science department.
-
-Before that, I recieved a **dual B.Sc in physics and mathematics** from [Rensselaer Polytechnic Institute](https://www.rpi.edu/) (RPI), where I conducted research in cellular motors (math modeling), nanomaterials (computational physics), and ultrathin films (experimental physics). My interests in math and physics accelerated after high school while working as an R&D technician at [Praxis Technology](https://praxisti.com), a small biomedical firm in Glens Falls, NY.
+Ph.D. in Applied Mathematics, Cornell 2021
+B.S. Physics and Mathematics, RPI 20216
 
 ## Research
 The spectral properties of infinite-dimensional operators often provide visual and intuitive insights into the behavior of complex interactions. For instance, the stability of a fluid flow, the scattering cross-section of a nucleus, and the influence of decentralized hubs in large networks are intimately connected to the spectral properties of such operators. **I design algorithms that accurately and efficiently extract eigenvalues, eigenfunctions, and spectral measures of differential and integral operators.** The algorithms use a mix of functional analysis and approximation theory to preserve and exploit the structure of the continuous operator, regardless of the underlying discretization used for numerical computation. In practice, this means
 
-- resolving inherently infinite-dimensional phenomenon related to continuous spectrum
+- resolving inherently infinite-dimensional phenomena, such as continuous spectra
 - avoiding spectral pollution from the underlying finite-dimensional discretizations
 - black-box approaches to a broad class of infinite-dimensional spectral problems
 - enhanced flexibility when selecting discretization schemes
