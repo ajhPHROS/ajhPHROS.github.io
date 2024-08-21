@@ -1,11 +1,11 @@
 ## Bio Sketch
-I'm an Applied Math Instructor at [MIT Mathematics](https://math.mit.edu/directory/profile.html?pid=2334). I work in numerical analysis and scientific computing, with current interests in
+I'm an Assistant Professor at [Rensselaer Polytechnic Institute (RPI)](https://faculty.rpi.edu/andrew-horning). I work in numerical analysis and scientific computing, with recent interests in
 
 - infinite-dimensional spectral problems
 - randomized numerical linear algebra
 - data-driven modeling and analysis
 
-Before coming to MIT, I obtained a Ph.D. in Applied Mathematics at Cornell University and a B.Sc. in Physics and Mathematics at Rensselaer Polytechnic Institute (RPI).
+Before coming to RPI, I obtained a Ph.D. in Applied Mathematics at Cornell University and worked as an Applied Math Instructor at MIT.
 
 ## Research
 
