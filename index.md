@@ -40,6 +40,12 @@ Software implementations of efficient and robust algorithms for infinite-dimensi
 
 
 ## Invited and contributed talks
+- November 2023, "Computational tools for the continuous spectrum of self-adjoint operators," CCM/CCQP Seminar, Flatiron Institute, NYC, New York.
+- August 2023, "Computing spectral properties of topological insulators with disorder," ICIAM, Waseda University, Tokyo, Japan.
+- August 2023, "Fast approximation of semigroups with explicit error bounds," Numerical Analysis in the 21st Century, University of Oxford, Oxford, UK.
+- June 2023, "Computing spectral properties of infinite-dimensional operators," AFRL Seminar, AFRL, Dayton, OH.
+- June 2023, "Computing spectral properties of infinite-dimensional operators," NASK Seminar, NASK (hybrid format), Warsaw, Poland.
+- February 2023, "Computing spectral measures of self-adjoint operators," **SIAG CSE Best Paper Prize** at SIAM CSE, Amsterdam, Netherlands.
 - December 2022, "Differentiating functionals of data-sparse matrix factors," SCAN Seminar, Cornell University, Ithaca, NY.
 - July 2022, "Computing spectral properties of topological insulators with disorder," WAVES 2022, Paris, France.
 - July 2022, "Computing spectral properties of topological insulators with disorder," SIAM AN22, Pittsburgh, PA.
