@@ -6,7 +6,7 @@ Fall 2024 - [Methods of Applied Math](https://github.com/ajhPHROS/MATH-6600)
 
 ### MIT
 
-Spring 2024 - [Fast Methods for Partial Differential and Integral Equations](https://github.com/mitmath/18336)
+Spring 2024 - [Fast Methods for Partial Differential and Integral Equations](https://github.com/mitmath/18336) (Graduate)
 
 Fall 2023 - [Linear PDEs: Analysis and Numerics](https://github.com/mitmath/18303)
 
