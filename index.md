@@ -7,12 +7,6 @@ I'm an Assistant Professor at [Rensselaer Polytechnic Institute (RPI)](https://f
 
 Before coming to RPI, I obtained a Ph.D. in Applied Mathematics at Cornell University and worked as an Applied Math Instructor at MIT.
 
-
-## Conference Proceedings
-1. M.J. Colbrook and A. Horning, "[SpecSolve: Spectral methods for spectral measures](https://doi.org/10.1007/978-3-031-20432-6_10)" ICOSAHOM 2020+1. Lecture Notes in Computational Science and Engineering, Springer vol. 137 (2023). 
-2. A. Horning, R. Morgan, and E. Nielson, “[Minimum number of observations for exoplanet orbit determination.](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11117/111171C/Minimum-number-of-observations-for-exoplanet-orbit-determination/10.1117/12.2529741.short?SSO=1)” Techniques and Instrumentation for Detection of Exoplanets IX. 4. Vol. 11117. SPIE (2018).
-
-
 ## Invited and contributed talks
 - November 2023, "Computational tools for the continuous spectrum of self-adjoint operators," CCM/CCQP Seminar, Flatiron Institute, NYC, New York.
 - August 2023, "Computing spectral properties of topological insulators with disorder," ICIAM, Waseda University, Tokyo, Japan.
