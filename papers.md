@@ -1,4 +1,5 @@
 ## [Bio](index.md) | [Research](research.md) | [Teaching](teaching.md) | Papers | [Talks](talks.md)
+
 1. A Horning and A.R. Gerlach, "[A family of high-order accurate contour integral methods for strongly continuous semigroups](https://arxiv.org/abs/2408.07691)" Submitted 2024.
 2. M.J. Colbrook, C. Drysdale, and A. Horning, "[Rigged Dynamic Mode Decomposition: Data-Driven Generalized Eigenfunction Decompositions for Koopman Operators](https://arxiv.org/abs/2405.00782)" Submitted 2024.
 3. J. Zvonek, A. Horning, and A. Townsend, "[ContHutch++: Stochastic trace estimation for implicit integral operators.](https://arxiv.org/abs/2311.07035)" Submitted 2023.
