@@ -11,6 +11,6 @@
 8. Y.P. Timalsina, et al. “[Effects of nanoscale surface roughness on the resistivity of ultrathin epitaxial copper films.](https://iopscience.iop.org/article/10.1088/0957-4484/26/7/075704/meta)” Nanotechnology 26.7 (2015): 075704.
 9. C. Daniels, et al. "[Elastic, plastic, and fracture mechanisms in graphene materials.](https://iopscience.iop.org/article/10.1088/0953-8984/27/37/373002#artAbst)" Journal of Physics: Condensed Matter 27.37 (2015): 373002.
 
-## Conference Proceedings (Peer-Reviewed)
+### Conference Proceedings (Peer-Reviewed)
 1. M.J. Colbrook and A. Horning, "[SpecSolve: Spectral methods for spectral measures](https://doi.org/10.1007/978-3-031-20432-6_10)" ICOSAHOM 2020+1. Lecture Notes in Computational Science and Engineering, Springer vol. 137 (2023). 
 2. A. Horning, R. Morgan, and E. Nielson, “[Minimum number of observations for exoplanet orbit determination.](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11117/111171C/Minimum-number-of-observations-for-exoplanet-orbit-determination/10.1117/12.2529741.short?SSO=1)” Techniques and Instrumentation for Detection of Exoplanets IX. 4. Vol. 11117. SPIE (2018).
