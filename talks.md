@@ -1,4 +1,5 @@
-## Invited and contributed talks
+## [Bio](index.md) | [Research](research.md) | [Teaching](teaching.md) | [Papers](papers.md) | Talks
+
 - November 2023, "Computational tools for the continuous spectrum of self-adjoint operators," CCM/CCQP Seminar, Flatiron Institute, NYC, New York.
 - August 2023, "Computing spectral properties of topological insulators with disorder," ICIAM, Waseda University, Tokyo, Japan.
 - August 2023, "Fast approximation of semigroups with explicit error bounds," Numerical Analysis in the 21st Century, University of Oxford, Oxford, UK.
