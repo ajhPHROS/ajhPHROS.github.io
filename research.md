@@ -1,4 +1,5 @@
-## Research
+## [Bio](index.md) | Research | [Teaching](teaching.md) | [Papers](papers.md) | [Talks](talks.md)
+
 
 Operators that act on an infinite-dimensional space of functions or vectors may exhibit a range of spectral phenomena that have no analog in the finite-dimensional world of matrices. What role do these play in practical problems and how can we compute them? As a computational scientist and numerical analyst, I am fascinated by three broad themes:
 
