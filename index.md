@@ -9,7 +9,7 @@ Before coming to RPI, I obtained a Ph.D. in Applied Mathematics at Cornell Unive
 
 Here is a movie from a recent research project.
 
-<video width="90%" autoplay loop muted>
+<video width="100%" autoplay loop muted>
  <source src="/images/Lorenz_movie.mp4" type="video/mp4" />
 </video>
 
