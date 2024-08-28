@@ -13,5 +13,5 @@ Here is a movie from a recent research project.
  <source src="/images/Lorenz_movie.mp4" type="video/mp4" />
 </video>
 
-The movie shows the evolution of a few coherent observables on the chaotic Lorenz attractor, identified by [Rigged DMD](https://arxiv.org/abs/2405.00782). Rigged DMD, developed with colleagues [Matthew Colbrook](https://www.damtp.cam.ac.uk/user/mjc249/home.html) (thanks to Matt for the beautiful video!) and [Catherine Drysdale](https://www.birmingham.ac.uk/staff/profiles/metabolism-systems/drysdale-catherine), uses data to break down challenging nonlinear dynamical systems into a set of simple coherent patterns. [Try it out](https://github.com/MColbrook/Rigged-Dynamic-Mode-Decomposition) for yourself!
+The movie shows the evolution of four coherent features on the chaotic Lorenz attractor, identified by [Rigged DMD](https://arxiv.org/abs/2405.00782). Rigged DMD, developed with colleagues [Matthew Colbrook](https://www.damtp.cam.ac.uk/user/mjc249/home.html) (thanks to Matt for the beautiful video!) and [Catherine Drysdale](https://www.birmingham.ac.uk/staff/profiles/metabolism-systems/drysdale-catherine), uses trajectory data to break down challenging nonlinear dynamical systems into a set of simple coherent patterns. [Try it out](https://github.com/MColbrook/Rigged-Dynamic-Mode-Decomposition)!
 
