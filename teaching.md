@@ -2,7 +2,7 @@
 
 ### RPI
 
-Fall 2024 - [Methods of Applied Math](https://github.com/ajhPHROS/MATH-6600)
+Fall 2024 - [Methods of Applied Math](https://github.com/ajhPHROS/MATH-6600) (Graduate)
 
 ### MIT
 
