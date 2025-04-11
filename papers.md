@@ -1,7 +1,7 @@
 ## [Bio](index.md) | [Research](research.md) | [Teaching](teaching.md) | Papers | [Talks](talks.md)
 
 ### Papers and Preprints
-1. M.J. Colbrook, A. Horning, and T. Xie, "[Computing generalized eigenfunctions in rigged Hilbert spaces](https://arxiv.org/abs/2410.08343)." Submitted 2024.
+1. M.J. Colbrook, A. Horning, and T. Xie, "[Computing generalized eigenfunctions in rigged Hilbert spaces](https://arxiv.org/abs/2410.08343)." To appear in Pure and Applied Analysis.
 2. A Horning and A.R. Gerlach, "[A family of high-order accurate contour integral methods for strongly continuous semigroups](https://arxiv.org/abs/2408.07691)." Submitted 2024.
 3. M.J. Colbrook, C. Drysdale, and A. Horning, "[Rigged Dynamic Mode Decomposition: Data-Driven Generalized Eigenfunction Decompositions for Koopman Operators](https://arxiv.org/abs/2405.00782)." To appear in SIAM Journal on Applied Dynamical Systems.
 4. J. Zvonek, A. Horning, and A. Townsend, "[ContHutch++: Stochastic trace estimation for implicit integral operators](https://doi.org/10.1137/23M1614365)." SIAM Journal on Numerical Analysis 63.1 (2025): 334-359.
