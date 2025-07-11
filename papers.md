@@ -1,9 +1,10 @@
 ## [Bio](index.md) | [Research](research.md) | [Teaching](teaching.md) | Papers | [Talks](talks.md)
 
 ### Papers and Preprints
-1. M.J. Colbrook, A. Horning, and T. Xie, "[Computing generalized eigenfunctions in rigged Hilbert spaces](https://arxiv.org/abs/2410.08343)." To appear in Pure and Applied Analysis.
+
+1. M.J. Colbrook, A. Horning, and T. Xie, "[Computing generalized eigenfunctions in rigged Hilbert spaces](https://doi.org/10.2140/paa.2025.7.413)." Pure and Applied Analysis 7.2 (2025): 413-443.
 2. A Horning and A.R. Gerlach, "[A family of high-order accurate contour integral methods for strongly continuous semigroups](https://arxiv.org/abs/2408.07691)." Submitted 2024.
-3. M.J. Colbrook, C. Drysdale, and A. Horning, "[Rigged Dynamic Mode Decomposition: Data-Driven Generalized Eigenfunction Decompositions for Koopman Operators](https://arxiv.org/abs/2405.00782)." To appear in SIAM Journal on Applied Dynamical Systems.
+3. M.J. Colbrook, C. Drysdale, and A. Horning, "[Rigged dynamic mode decomposition: Data-driven generalized eigenfunction decompositions for Koopman operators](https://doi.org/10.1137/24M1662370)." SIAM Journal on Applied Dynamical Systems 24.2 (2025): 1150-1190.
 4. J. Zvonek, A. Horning, and A. Townsend, "[ContHutch++: Stochastic trace estimation for implicit integral operators](https://doi.org/10.1137/23M1614365)." SIAM Journal on Numerical Analysis 63.1 (2025): 334-359.
 5. M.J. Colbrook, A. Horning, K. Thicke, and A.B. Watson, "[Computing spectral properties of topological insulators without artificial truncation or supercell approximation.](https://doi.org/10.1093/imamat/hxad002)" IMA Journal of Applied Mathematics 88.1 (2023): 1-42.
 6. A. Horning and Y. Nakatsukasa, "[Twice is enough for dangerous eigenvalues.](https://doi.org/10.1137/20M1385330)" SIAM Journal on Matrix Analysis and Applications 43.1 (2022): 68-93.
