@@ -2,7 +2,8 @@
 
 ### Invited and Contributed talks
 
-- June 2025, "Rigged DMD: Modal Koopman decompositions for the continuous spectrum," Mi Casa Su Casa Seminar, University of Oxford, Oxford, UK.
+- July 2025, "High-order wave packet approximations to non-normalizable eigenstates," ICOSAHOM, McGill University, Montreal, CA.
+- July 2025, "Rigged DMD: Modal Koopman decompositions for the continuous spectrum," Mi Casa Su Casa Seminar, University of Oxford, Oxford, UK.
 - June 2025, "High-order contour integral methods for strongly continuous operator exponentials," The 30th BNAC, University of Strathclyde, Glasgow, UK.
 - June 2025, "Contour integral methods for exponentials of matrices and operators with explicit high-order error bounds," Householder Symposium XXII, Ithaca, NY.
 - May 2025, "Rigged DMD: Modal Koopman decompositions for the continuous spectrum," SIAM Applications of Dynamical Systems, Denver, CO.
