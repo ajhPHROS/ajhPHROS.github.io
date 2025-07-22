@@ -2,7 +2,7 @@
 
 ### Papers and Preprints
 
-1. A. Horning and L.N. Trefethen, "[Quadrature formulas from rational approximations](/pdfs/horning_trefethen.pdf)." Submitted 2025.
+1. A. Horning and L.N. Trefethen, "[Quadrature formulas from rational approximations](https://arxiv.org/abs/2507.14971)." Submitted 2025.
 2. M.J. Colbrook, A. Horning, and T. Xie, "[Computing generalized eigenfunctions in rigged Hilbert spaces](https://doi.org/10.2140/paa.2025.7.413)." Pure and Applied Analysis 7.2 (2025): 413-443.
 3. A Horning and A.R. Gerlach, "[A family of high-order accurate contour integral methods for strongly continuous semigroups](https://arxiv.org/abs/2408.07691)." Submitted 2024.
 4. M.J. Colbrook, C. Drysdale, and A. Horning, "[Rigged dynamic mode decomposition: Data-driven generalized eigenfunction decompositions for Koopman operators](https://doi.org/10.1137/24M1662370)." SIAM Journal on Applied Dynamical Systems 24.2 (2025): 1150-1190.
