@@ -2,6 +2,9 @@
 
 ### Invited and Contributed talks
 
+- November 2025, "Data-Driven Modeling with the Koopman Operator," SIAM-NNP, Penn State, State College, PA.
+- October 2025, "Computational Spectral Analysis for Infinite-Dimensional Operators," NASC Seminar, Rice University, Houston, TX.
+- September 2025, "Rigged DMD: Data-driven generalized eigenfunction decompositions for Koopman operators," Koopman Operator Theory Workshop, Moise Palace, Cres, Croatia.
 - July 2025, "High-order wave packet approximations to non-normalizable eigenstates," ICOSAHOM, McGill University, Montreal, CA.
 - July 2025, "Rigged DMD: Modal Koopman decompositions for the continuous spectrum," Mi Casa Su Casa Seminar, University of Oxford, Oxford, UK.
 - June 2025, "High-order contour integral methods for strongly continuous operator exponentials," The 30th BNAC, University of Strathclyde, Glasgow, UK.
