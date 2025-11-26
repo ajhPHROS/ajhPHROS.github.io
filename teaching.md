@@ -2,7 +2,9 @@
 
 ### RPI
 
-Fall 2024 - [Methods of Applied Math](https://github.com/ajhPHROS/MATH-6600)
+Spring 2025 - [Complex Variables and Integral Transforms](https://github.com/ajhPHROS/MATH-6640) (Graduate)
+
+Fall 2024 - [Methods of Applied Math](https://github.com/ajhPHROS/MATH-6600) (Graduate)
 
 ### MIT
 
