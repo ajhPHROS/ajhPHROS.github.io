@@ -2,7 +2,7 @@
 
 ### Papers and Preprints
 
-1. J. Yi, D. Massat, A. Horning, M. Luskin, J. H. Pixley, and J. Kaye, "[A high-order regularized delta-Chebyshev method for computing spectral densities](https://doi.org/10.48550/arXiv.2512.03149)." Submitted 2025.
+1. J. Yi, D. Massatt, A. Horning, M. Luskin, J. H. Pixley, and J. Kaye, "[A high-order regularized delta-Chebyshev method for computing spectral densities](https://doi.org/10.48550/arXiv.2512.03149)." Submitted 2025.
 2. M.J. Colbrook, Z. Drmac, and A. Horning, "[An introductory guide to Koopman learning](https://doi.org/10.48550/arXiv.2510.22002)." To appear in a collection about Koopman Operator Theory in [Operator Theory](https://doi.org/10.1007/978-3-0348-0667-1).
 3. A. Horning and L.N. Trefethen, "[Quadrature formulas from rational approximations](./pdfs/horning_tref_revised.pdf)." To appear in IMA Journal of Numerical Analysis.
 4. M.J. Colbrook, A. Horning, and T. Xie, "[Computing generalized eigenfunctions in rigged Hilbert spaces](https://doi.org/10.2140/paa.2025.7.413)." Pure and Applied Analysis 7.2 (2025): 413-443.
