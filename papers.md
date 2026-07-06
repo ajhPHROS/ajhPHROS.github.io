@@ -4,7 +4,7 @@
 
 1. J. Yi, D. Massatt, A. Horning, M. Luskin, J. H. Pixley, and J. Kaye, "[A high-order regularized delta-Chebyshev method for computing spectral densities](https://doi.org/10.48550/arXiv.2512.03149)." Submitted 2025.
 2. M.J. Colbrook, Z. Drmac, and A. Horning, "[An introductory guide to Koopman learning](https://doi.org/10.48550/arXiv.2510.22002)." To appear in a collection about Koopman Operator Theory in [Operator Theory](https://doi.org/10.1007/978-3-0348-0667-1).
-3. A. Horning and L.N. Trefethen, "[Quadrature formulas from rational approximations](./pdfs/horning_tref_revised.pdf)." To appear in IMA Journal of Numerical Analysis.
+3. A. Horning and L.N. Trefethen, "[Quadrature formulas from rational approximations](https://doi.org/10.1093/imanum/draf138)." To appear in IMA Journal of Numerical Analysis.
 4. M.J. Colbrook, A. Horning, and T. Xie, "[Computing generalized eigenfunctions in rigged Hilbert spaces](https://doi.org/10.2140/paa.2025.7.413)." Pure and Applied Analysis 7.2 (2025): 413-443.
 5. A Horning and A.R. Gerlach, "[A family of high-order accurate contour integral methods for strongly continuous semigroups](https://arxiv.org/abs/2408.07691)." Submitted 2024.
 6. M.J. Colbrook, C. Drysdale, and A. Horning, "[Rigged dynamic mode decomposition: Data-driven generalized eigenfunction decompositions for Koopman operators](https://doi.org/10.1137/24M1662370)." SIAM Journal on Applied Dynamical Systems 24.2 (2025): 1150-1190.
